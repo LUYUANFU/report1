@@ -25,6 +25,10 @@ PowerDesigner
 
 
 ＊　注意：上述誇號中的内容必须體現在圖中，缺一项本實驗得分扣5分；請自行設計類圖和對象圖，注意邏輯。
+* 實驗過程
+
+
+1. 完整的類圖：
 * 分析：
 
 上圖總的來說共有六个類，其中分别是User,RegisteredUser,OrdinaryUser,LibraryManager,MailSystem,Library.
@@ -34,3 +38,8 @@ PowerDesigner
 類依赖于RegisterUser和 OrdinaryReader類；LibraryManager還實現了MailSystem接口,又
 
 和Library之間存在组成關西，各個類都設置了一定的可見性，有的定義了一些操作方法。
+
+2. 對象圖:
+
+
+從上圖可看出有三個對象
