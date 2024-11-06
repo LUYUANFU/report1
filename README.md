@@ -15,6 +15,10 @@ PowerDesigner
 
 
   針對“迷你圖書管理系统”的用例圖(圖1)，開展分析，完成類建模。
+
+
+  ![](軟體01.png)
+  
 * 實驗步驟
 
 
@@ -31,6 +35,10 @@ PowerDesigner
 
 
 1. 完整的類圖：
+
+
+![](軟體02.png)
+
 * 分析：
 
 上圖總的來說共有六个類，其中分别是User,RegisteredUser,OrdinaryUser,LibraryManager,MailSystem,Library.
@@ -44,4 +52,7 @@ PowerDesigner
 2. 對象圖:
 
 
+![](軟體03.png)
+
 從上圖可看出有三個對象
+* 來源: https://blog.csdn.net/guleilei0/article/details/124869507?spm=1001.2014.3001.5502
